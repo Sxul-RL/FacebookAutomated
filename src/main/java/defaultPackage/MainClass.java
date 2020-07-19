@@ -19,7 +19,6 @@ public class MainClass {
 		//Correo
 		//*[@id="email"]		
 		//Contraseña
-		
 		//*[@id="pass"]
 		
 		//Boton
